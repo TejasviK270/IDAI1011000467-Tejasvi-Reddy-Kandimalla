@@ -1,6 +1,13 @@
 # IDAI1011000467-Tejasvi-Reddy-Kandimalla
 Unit 1- AI-Based Smart Solutions: Designing Chatbots for Real-World Challenges
 
+Tejasvi Reddy Kandimalla
+Candidate Registration Number- 1000467
+CRS Name: Artificial Intelligence
+Course Name - Real-World Applications and Implications
+School Name - Birla Open Minds International School, Kollur
+
+
 Project Overview
 
 I have created a chatbot using Google Dialogflow. This chatbot is called NutriWell. Its purpose is to help people lead a healthy lifestyle. The main factors for leading a healthy lifestly is exercise, food and good sleep and hydration. This chatbot can create a mealplan based on your allergies and personal needs such as gaining or loosing weight. It also has the ability to set sleep, exercise and hydration reminders. Whenever you feel unmotivated, you can just ask it for a motivational quote and it will help motivate you!
@@ -134,6 +141,19 @@ timeperiod_entity
 
 This entity includes the range of time such as morning. 
 
+Integration details
+
+I used Google Dialogflow to help integrate my chatbot. I used Dialogflow Messenger to help integrate it
+
+Deployment Instructions
+
+I used a html file to help deploy my chatbot. The copied and pasted the link from Dialogflow Messenger from script into this code:
+
+<img width="707" height="153" alt="image" src="https://github.com/user-attachments/assets/8a5caeab-1f55-4cff-a88c-973d85fe3488" />
+
+DialogFlow Messenger Code
+
+<img width="707" height="153" alt="image" src="https://github.com/user-attachments/assets/b9a8338b-dade-4a41-b6e2-c2e202429011" />
 
 
 Click the link below to interact with my Live NutriWell chatbot:
