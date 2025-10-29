@@ -8,11 +8,11 @@ Course Name - Real-World Applications and Implications
 School Name - Birla Open Minds International School, Kollur
 
 
-Project Overview
+**Project Overview**
 
 I have created a chatbot using Google Dialogflow. This chatbot is called NutriWell. Its purpose is to help people lead a healthy lifestyle. The main factors for leading a healthy lifestly is exercise, food and good sleep and hydration. This chatbot can create a mealplan based on your allergies and personal needs such as gaining or loosing weight. It also has the ability to set sleep, exercise and hydration reminders. Whenever you feel unmotivated, you can just ask it for a motivational quote and it will help motivate you!
 
-Intents
+**Intents**
 
 Default Welcome Intent
 
